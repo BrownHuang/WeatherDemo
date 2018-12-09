@@ -7,5 +7,8 @@ target 'WeatherDemo' do
 
   # Pods for WeatherDemo
   pod 'Kanna', '~> 2.1.0'
+  
+  pod 'RealmSwift'
+
 
 end
